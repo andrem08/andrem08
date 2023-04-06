@@ -13,18 +13,18 @@
   srcset="https://github-readme-stats.vercel.app/api?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact" />
 </picture>
        <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact&langs_count=5"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact&langs_count=5"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact&langs_count=5" />
 </picture>
      
   </a>
