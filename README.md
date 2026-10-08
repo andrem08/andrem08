@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8a2be2&height=220&section=header&text=André%20Miyazawa&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20Software%20·%20Salesforce%20·%20AWS%20·%20Dados&descSize=18&descAlignY=58&animation=fadeIn" />
+<a href="https://andrem08.github.io/AndreMiyazawa/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8a2be2&height=220&section=header&text=André%20Miyazawa&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20Software%20·%20Salesforce%20·%20AWS%20·%20Dados&descSize=18&descAlignY=58&animation=fadeIn" /></a>
 
 <div align="center">
 
@@ -52,23 +52,23 @@ var andre = Engineer{
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=go,python,java,js,r,postgres,mysql&theme=dark" />
+<a href="https://andrem08.github.io/AndreMiyazawa/#skills"><img src="https://skillicons.dev/icons?i=go,python,java,js,r,postgres,mysql&theme=dark" /></a>
 
 **Salesforce**
 
-<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/LWC-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Flow-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentforce-7F56D9?style=for-the-badge&logo=salesforce&logoColor=white" />
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/LWC-032D60?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Flow-1B96FF?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Agentforce-7F56D9?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
 
 **Cloud, DevOps & Dados**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,mongodb,dynamodb&theme=dark" />
+<a href="https://andrem08.github.io/AndreMiyazawa/#skills"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,mongodb,dynamodb&theme=dark" /></a>
 
 **Frameworks & Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,django,git,grafana,vscode,linux&theme=dark" />
+<a href="https://andrem08.github.io/AndreMiyazawa/#skills"><img src="https://skillicons.dev/icons?i=nodejs,react,django,git,grafana,vscode,linux&theme=dark" /></a>
 
 </div>
 
@@ -126,14 +126,14 @@ var andre = Engineer{
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Salesforce-Certified%20JavaScript%20Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Salesforce-Certified%20AI%20Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<a href="https://andrem08.github.io/AndreMiyazawa/#education"><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Salesforce-Certified%20JavaScript%20Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Salesforce-Certified%20AI%20Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /></a>
+<a href="https://andrem08.github.io/AndreMiyazawa/#education"><img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
 <br/>
-<img src="https://img.shields.io/badge/Superbadge-LWC%20Specialist-032D60?style=flat-square&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Superbadge-Prompt%20Builder%20Templates-032D60?style=flat-square&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Trailhead-108%20badges%20·%2083k%20pts-1B96FF?style=flat-square&logo=salesforce&logoColor=white" />
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Superbadge-LWC%20Specialist-032D60?style=flat-square&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Superbadge-Prompt%20Builder%20Templates-032D60?style=flat-square&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.salesforce.com/trailblazer/amolrg"><img src="https://img.shields.io/badge/Trailhead-108%20badges%20·%2083k%20pts-1B96FF?style=flat-square&logo=salesforce&logoColor=white" /></a>
 
 🥇 Reconhecimento por mérito · **Itaú Unibanco** (2026) &nbsp;·&nbsp; 🏆 Prêmio "Time de Fenômenos" · **Rede** (2024)
 
@@ -145,10 +145,10 @@ var andre = Engineer{
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrem08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<a href="https://github.com/andrem08?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=andrem08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /></a>
+<a href="https://github.com/andrem08?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrem08&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /></a>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=andrem08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<a href="https://github.com/andrem08?tab=repositories"><img width="80%" src="https://streak-stats.demolab.com?user=andrem08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
 
 </div>
 
@@ -168,8 +168,8 @@ Aberto a oportunidades, projetos e conversas sobre engenharia de software, Sales
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=andrem08&color=3b82f6&style=flat-square&label=Visitas+no+perfil" />
+<a href="https://github.com/andrem08"><img src="https://komarev.com/ghpvc/?username=andrem08&color=3b82f6&style=flat-square&label=Visitas+no+perfil" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:3b82f6&height=120&section=footer" />
+<a href="https://andrem08.github.io/AndreMiyazawa/#contact"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:3b82f6&height=120&section=footer" /></a>
